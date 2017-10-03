@@ -1,0 +1,42 @@
+{
+  "name": "rpi3-temp2",
+  "version": "1.0.0",
+  "title": "Raspberry Pi 3 - temp",
+  "description": "App to get a temperature reading from Raspberry Pi 3 using BLE.",
+  "tags": [
+    {
+      "label": "nodejs",
+      "type": "platform"
+    },
+    {
+      "label": "raspberrypi",
+      "type": "vendor"
+    }, 
+    {
+      "label": "ble",
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "cordova-plugin-ble",
+      "version": "2.0.0"
+    }
+  ],
+  "index-file": "index.html",
+  "app-dir": "app",
+  "uuid": "f9767f0f-564e-4b42-92a8-f81e5e7c7f27",
+  "icon": "app-icon.png",
+  "doc-url": "http://evothings.com/2.2/doc/examples/rpi3-system-information.html",
+  "long-description": "App to control your Raspberry Pi 3 using BLE.",
+  "cordova-id": "com.fxwalsh.temp",
+  "author-name": "Evothings",
+  "author-email": "build@evothings.com",
+  "author-url": "https://evothings.com"
+}
