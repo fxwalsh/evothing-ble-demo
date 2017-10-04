@@ -11,7 +11,7 @@
     {
       "label": "raspberrypi",
       "type": "vendor"
-    }, 
+    },
     {
       "label": "ble",
       "type": "comm"
@@ -36,7 +36,7 @@
   "doc-url": "http://evothings.com/2.2/doc/examples/rpi3-system-information.html",
   "long-description": "App to control your Raspberry Pi 3 using BLE.",
   "cordova-id": "com.fxwalsh.temp",
-  "author-name": "Evothings",
-  "author-email": "build@evothings.com",
-  "author-url": "https://evothings.com"
+  "author-name": "Evothings, fxwalsh",
+  "author-email": "fxwalsh@wit.ie",
+  "author-url": "http://www.wit.ie"
 }
